@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="scheduler-android-tests_main" target="1.8" />
       <module name="scheduler-android-tests_test" target="1.8" />
+      <module name="wiki-mob_main" target="1.8" />
+      <module name="wiki-mob_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
